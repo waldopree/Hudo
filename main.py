@@ -1,5 +1,6 @@
 # import randomgen function
 import randomgen
+import recq
 
 throw = 0
 stop = False
